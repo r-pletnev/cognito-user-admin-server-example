@@ -1,0 +1,6 @@
+boto3~=1.20.47
+fastapi~=0.73.0
+pydantic~=1.9.0
+botocore~=1.23.47
+PyJWT~=2.3.0
+cryptography==36.0.1
